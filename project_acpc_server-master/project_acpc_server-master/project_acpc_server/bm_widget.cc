@@ -23,6 +23,7 @@ Copyright (C) 2011 by the Computer Poker Research Group, University of Alberta
 #define ARG_BOT_COMMAND 3
 #define ARG_NUM_ARGS 4
 
+using namespace project_acpc_server;
 
 static void printUsage( FILE *file )
 {

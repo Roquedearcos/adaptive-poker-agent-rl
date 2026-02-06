@@ -51,6 +51,7 @@
 
 /* NOTE changes made on 2005/9/7 by Neil Burch - if you have problems
    with this code, DON'T complain to Makoto Matsumoto... */
+using namespace project_acpc_server;
 
 namespace project_acpc_server {
 

@@ -16,6 +16,7 @@ Copyright (C) 2011 by the Computer Poker Research Group, University of Alberta
 #include "game.h"
 #include "net.h"
 
+using namespace project_acpc_server;
 
 /* the ports for players to connect to will be printed on standard out
    (in player order)

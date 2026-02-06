@@ -17,6 +17,7 @@ Copyright (C) 2014 by the Computer Poker Research Group, University of Alberta
 #include "game.h"
 #include "net.h"
 
+using namespace project_acpc_server;
 
 void getUsedCards( const Game *game,
 		   const State *state,

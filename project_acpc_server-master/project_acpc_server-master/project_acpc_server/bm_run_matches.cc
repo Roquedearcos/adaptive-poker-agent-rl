@@ -18,6 +18,8 @@
 #define ARG_BOT_COMMAND 7
 #define ARG_MIN_ARGS 6
 
+using namespace project_acpc_server;
+
 static void printUsage( FILE *file )
 {
   fprintf( file, "Sample usages:\n" );

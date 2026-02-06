@@ -11,6 +11,8 @@ Copyright (C) 2011 by the Computer Poker Research Group, University of Alberta
 #include <netinet/tcp.h>
 #include "net.h"
 
+using namespace project_acpc_server;
+
 namespace project_acpc_server {
 
 ReadBuf *createReadBuf( int fd )

@@ -36,6 +36,7 @@ Copyright (C) 2011 by the Computer Poker Research Group, University of Alberta
 #define BM_DEALER_WAIT_SECS 5
 #define BM_MAX_IOWAIT_SECS 1
 
+using namespace project_acpc_server;
 
 typedef struct LLPoolEntry_struct {
   struct LLPoolEntry_struct *next;
